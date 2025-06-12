@@ -1,33 +1,33 @@
-# 🎉 Dhalasho Form
+# 🎉 Dhalasho Form | Foomka Dhalashada
 
-**Dhalasho Form** waa foom fudud oo websayt ah oo loogu talagalay in lagu diiwaangeliyo macluumaadka dhalashada ee qof. Waxay ku dhisan tahay **HTML**, **CSS**, iyo **JavaScript**, waxaana loogu talagalay barashada iyo tijaabinta aasaaska foomamka webka.
+> **Bilingual README: English & Somali**
+
+**Dhalasho Form** is a simple web-based form built with **HTML**, **CSS**, and optionally **JavaScript**.  
+This project is designed to demonstrate how to build and style a birth registration form using front-end web technologies.
+
+**Foomka Dhalashada** waa foom sahlan oo websayt ah oo lagu dhisay **HTML**, **CSS**, iyo haddii loo baahdo **JavaScript**.  
+Mashruucani wuxuu tusaale u yahay dhismaha iyo qaabaynta foom diiwaangelinta dhalashada adigoo adeegsanaya tiknoolajiyadda horudhaca webka.
+
+
+
+## 📁 Project Files | Faylasha Mashruuca
+
+| File/Fayl      | Description / Sharaxaad                      |
+|----------------|-----------------------------------------------|
+| `index.html`   | Main form structure / Qaab-dhismeedka foomka |
+| `style.css`    | Design & styling / Naqshad & qurxin          |
+| `script.js`    | Optional JS logic / JavaScript ikhtiyaari ah |
+| `images/`      | Folder for images / Galka sawirrada          |
 
 ---
 
-## 🖼️ Muuqaalka Foomka (Screenshot)
+## 🚀 How to Use | Sida Loo Isticmaalo
 
-![Screenshot](images/screenshot.png)  
-> *Fiiro gaar ah: Haddii sawirku aanu muuqan, hubi in faylka `screenshot.png` uu ku jiro galka `images`.*
+### ENGLISH 🇬🇧
 
----
-
-## 📂 Faylasha Mashruuca
-
-| Faylka       | Sharaxaad |
-|--------------|-----------|
-| `index.html` | Foomka HTML |
-| `style.css`  | Qurxinta iyo qaabeynta foomka |
-| `script.js`  | JavaScript (haddii la isticmaalo) |
-| `images/`    | Galka sawirrada sida screenshot |
-
----
-
-## 🚀 Sida Loogu Shaqeeyo
-
-1. **Clone repo-ga:**
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/Gabaxey/Dhalasho-From.git
-
 
 ### 👋 Hi, I'm Abdisalam Mohamed Abdulle
 
@@ -37,3 +37,5 @@
 🤝 Open to internships, remote projects, and meaningful teamwork
 
 🔗 Let's connect, collaborate, and grow together!
+
+
